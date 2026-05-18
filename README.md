@@ -81,7 +81,7 @@ Run all cells — the notebook covers EDA, preprocessing, model training, ROC cu
 
 **Mahek Patel**
 - GitHub: [@mahekpatelmdp](https://github.com/mahekpatelmdp)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mahek-patel-8ba264286)
 
 ---
 
